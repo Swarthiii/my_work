@@ -1,0 +1,22 @@
+div {
+    height: 840px;
+    width: 2000px;
+    background: #494a49;
+    /*margin-left: 20px;*/
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+#bttn{
+    height: 50px;
+    width: 120px;
+    background: #566156;
+    border: 2px solid #494a49;
+    border-radius: 40%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+
+}
